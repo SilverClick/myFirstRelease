@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world!");
 
     Funciones calculadora = new Funciones();
-    System.out.println(calculadora.suma(2,3)););
+    System.out.println(calculadora.suma(2,3));
     }
 }
